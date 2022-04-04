@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Chart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript" language="javascript"></script>
+
+@Scripts.Render("~/bundles/chart")
+
+<style type="text/css">
+    #ChartLoad{
+        margin-top:130px;
+    }
+</style>
+
+<div class="row" id="ChartLoad">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div id="status_chart_container"></div>
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div id="gender_chart_container"></div>
+    </div>
+</div>
