@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarAPI.Common.Enum/1.0.0": {
+        "runtime": {
+          "CarAPI.Common.Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarAPI.Common.Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
