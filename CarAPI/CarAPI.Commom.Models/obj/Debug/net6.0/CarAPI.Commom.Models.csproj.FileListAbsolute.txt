@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\bin\Debug\net6.0\CarAPI.Commom.Models.deps.json
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\bin\Debug\net6.0\CarAPI.Commom.Models.dll
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\bin\Debug\net6.0\CarAPI.Commom.Models.pdb
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.dll
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\refint\CarAPI.Commom.Models.dll
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\CarAPI.Commom.Models.pdb
+C:\Users\DELL\Desktop\Shlok\CarAPI\CarAPI.Commom.Models\obj\Debug\net6.0\ref\CarAPI.Commom.Models.dll
