@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CarAPI.WebApp._1_WebAPI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarAPI.Commom.Models\CarAPI.Common.Models.csproj" />
+    <ProjectReference Include="..\CarAPI.WebApp.2_Services\CarAPI.WebApp.2_Services.csproj" />
+  </ItemGroup>
+
+</Project>

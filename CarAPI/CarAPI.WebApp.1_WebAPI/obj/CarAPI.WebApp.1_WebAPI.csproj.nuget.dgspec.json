@@ -1,0 +1,404 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.1_WebAPI\\CarAPI.WebApp.1_WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj",
+        "projectName": "CarAPI.Common.Models",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\CarAPI.Common.Enum.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\CarAPI.Common.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\CarAPI.Common.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\CarAPI.Common.Enum.csproj",
+        "projectName": "CarAPI.Common.Enum",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\CarAPI.Common.Enum.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Common.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.1_WebAPI\\CarAPI.WebApp.1_WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.1_WebAPI\\CarAPI.WebApp.1_WebAPI.csproj",
+        "projectName": "CarAPI.WebApp.1_WebAPI",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.1_WebAPI\\CarAPI.WebApp.1_WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.1_WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj"
+              },
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\CarAPI.WebApp.2_Services.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\CarAPI.WebApp.2_Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\CarAPI.WebApp.2_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\CarAPI.WebApp.2_Services.csproj",
+        "projectName": "CarAPI.WebApp.2_Services",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\CarAPI.WebApp.2_Services.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.2_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj"
+              },
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\CarAPI.WebApp.3_BusisnessLogic.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\CarAPI.WebApp.3_BusisnessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\CarAPI.WebApp.3_BusisnessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\CarAPI.WebApp.3_BusisnessLogic.csproj",
+        "projectName": "CarAPI.WebApp.3_BusisnessLogic",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\CarAPI.WebApp.3_BusisnessLogic.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.3_BusisnessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj"
+              },
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\CarAPI.WebApp.4_Repository.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\CarAPI.WebApp.4_Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\CarAPI.WebApp.4_Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\CarAPI.WebApp.4_Repository.csproj",
+        "projectName": "CarAPI.WebApp.4_Repository",
+        "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\CarAPI.WebApp.4_Repository.csproj",
+        "packagesPath": "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\",
+        "outputPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.WebApp.4_Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uttamshlok.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj": {
+                "projectPath": "D:\\KCS\\KCS-Training\\OOPS\\OOPS_BASIC\\CarAPI\\CarAPI.Commom.Models\\CarAPI.Common.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
